@@ -4,7 +4,7 @@ Self-taught front end developer. I also play Final Fantasy XIV too much.
 <p align="left">
   <!-- Pulled from https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,,html,css,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react&theme=dark" />
   </a>
 </div>
 
