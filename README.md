@@ -1,5 +1,5 @@
 ## sam <sub><sup>(they/them)</sup></sub>
-Self-taught front end developer. I also play Final Fantasy XIV too much.
+self-taught front end developer. i also play final fantasy xiv too much.
 
 <p align="left">
   <!-- Pulled from https://github.com/tandpfun/skill-icons -->
@@ -7,5 +7,3 @@ Self-taught front end developer. I also play Final Fantasy XIV too much.
     <img src="https://skillicons.dev/icons?i=javascript,html,css,react&theme=dark" />
   </a>
 </div>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/noirneru)
